@@ -1,0 +1,8 @@
+sphinx===4.5.0
+sphinx_autodoc_typehints
+sphinx_copybutton
+pydata_sphinx_theme
+nbsphinx
+jupyter
+jupytext
+ipython
